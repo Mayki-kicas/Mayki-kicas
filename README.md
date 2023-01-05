@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **admin@kcastrec.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Mayki-kicas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayki-kicas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
