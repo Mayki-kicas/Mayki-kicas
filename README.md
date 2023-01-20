@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **kubernetes**
 
-- 📫 How to reach me **admin@kcastrec.com**
+- 📫 How to reach me **killian.castrec@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayki-kicas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
