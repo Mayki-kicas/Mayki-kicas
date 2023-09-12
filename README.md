@@ -4,13 +4,6 @@
 - 🔭 I’m currently working on **nlp with spacy**
 
 - 🌱 I’m currently learning **kubernetes**
-
-- 📫 How to reach me **killian.castrec@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/killian-castrec-80601519b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="killian castrec" height="30" width="40" /></a>
 </p>
 
 
